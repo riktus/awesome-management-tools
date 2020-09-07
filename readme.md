@@ -1,15 +1,15 @@
 # Awesome Management Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of &lt;insert awesome stuff&gt;
+> A curated list of &lt;tools for management&gt;
 
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Roadmap](#roadmap)
+- [Boards](#boards)
 
 
-## Section
+## Roadmap
 
 About this section. Optional. Keep this short and focus on the list.
 
@@ -17,12 +17,8 @@ About this section. Optional. Keep this short and focus on the list.
 - [List item](http://example.com)
 
 
-## Another Section
-
-### Subsection
-
-- [List item](http://example.com)
-- [List item](http://example.com)
+## Boards
+- [Trello](http://trello.com) - Trello
 
 
 ## Contribute
