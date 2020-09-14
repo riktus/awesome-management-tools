@@ -18,9 +18,11 @@
 
 About this section. Optional. Keep this short and focus on the list.
 
-- [Confluence](https://confluence.atlassian.com/) - Collaboration wiki tool used to help teams to collaborate and share knowledge efficiently
+- [Confluence](https://confluence.atlassian.com) - Collaboration wiki tool used to help teams to collaborate and share knowledge efficiently
+- [Craft](https://craft.io) - Empowers product teams to collaborate seamlessly, connect with stakeholders and deliver better products
 - [Miro](https://miro.com) - Collaborative online whiteboard platform designed for remote and distributed teams
 - [Notion](http://notion.so) - A new tool that blends your everyday work apps into one. It's the all-in-one workspace for you and your team
+- [Priooo](https://priooo.com) - Awesome scrum tool. Combining agility and predictability for the development team, product owner and your business
 
 
 ## Contribute
