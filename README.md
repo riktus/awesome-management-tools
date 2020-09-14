@@ -18,8 +18,8 @@
 
 About this section. Optional. Keep this short and focus on the list.
 
-- [Confluence](https://confluence.atlassian.com/) - Confluence is a collaboration wiki tool used to help teams to collaborate and share knowledge efficiently
-- [Miro](https://miro.com) - Miro is a collaborative online whiteboard platform designed for remote and distributed teams
+- [Confluence](https://confluence.atlassian.com/) - Collaboration wiki tool used to help teams to collaborate and share knowledge efficiently
+- [Miro](https://miro.com) - Collaborative online whiteboard platform designed for remote and distributed teams
 - [Notion](http://notion.so) - A new tool that blends your everyday work apps into one. It's the all-in-one workspace for you and your team
 
 
