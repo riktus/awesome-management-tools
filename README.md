@@ -6,7 +6,7 @@
 ## Contents
 
 - [Boards](#boards)
-- [Documentation](#ocumentation)
+- [Platroms](#platforms)
 
 ## Boards
 
@@ -14,11 +14,12 @@
 - [Monday](https://monday.com) - Product development software that empowers agile teams to build products fast and iterate swiftly
 - [Trello](http://trello.com) - Trello keeps track of everything, from the big picture to the minute details
 
-## Documentation
+## Platforms
 
 About this section. Optional. Keep this short and focus on the list.
 
 - [Confluence](https://confluence.atlassian.com/) - Confluence is a collaboration wiki tool used to help teams to collaborate and share knowledge efficiently
+- [Miro](https://miro.com) - Miro is a collaborative online whiteboard platform designed for remote and distributed teams
 - [Notion](http://notion.so) - A new tool that blends your everyday work apps into one. It's the all-in-one workspace for you and your team
 
 
