@@ -1,6 +1,6 @@
 # Awesome Management Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of tools for project/product management
+> Community driven list of tools for project/product management
 
 
 ## Contents
