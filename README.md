@@ -13,6 +13,7 @@
 - [Trello](http://trello.com) - Trello keeps track of everything, from the big picture to the minute details.
 
 ## Platforms
+- [Asana](https://asana.com) - Bring your team’s goals, plans, tasks, files, and more together in one shared space.
 - [Confluence](https://confluence.atlassian.com) - Collaboration wiki tool used to help teams to collaborate and share knowledge efficiently.
 - [Craft](https://craft.io) - Empowers product teams to collaborate seamlessly, connect with stakeholders and deliver better products.
 - [Miro](https://miro.com) - Collaborative online whiteboard platform designed for remote and distributed teams.
